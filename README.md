@@ -41,6 +41,7 @@ Pasos.
 6. Abrir el archivo *schema.sql* 
 
 ![Open](Imagenes/4-Open.png) 
+
 ![Files](Imagenes/5-Fileexplorer.png)
 
 7. Dar click en el boton **Ejecutar script** 
