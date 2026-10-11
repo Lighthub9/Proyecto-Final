@@ -27,22 +27,28 @@ Pasos.
 1. Conectarse a `postgreSQL`
 2. Abrir una pestaña de consulta en `pgAdmin 4`
 3. Escribir: **`CREATE DATABASE proyecto_final_ws;`** y dar click en el boton **Ejecutar query**  
+
 ![Query-Execute](Imagenes/1-Exequerycute.png)
 
 4. Dar click derecho en **Base de Datos** y seleccionar **Actualizar** 
+
 ![Refresh](Imagenes/2-Refresh.png)
 
 5. Seleccionar la recien creada base de datos, dar click derecho y seleccionar **Herramienta de Consulta** 
+
 ![QueryTool](Imagenes/3-QueryTool.png)
 
 6. Abrir el archivo *schema.sql* 
+
 ![Open](Imagenes/4-Open.png) 
 ![Files](Imagenes/5-Fileexplorer.png)
 
 7. Dar click en el boton **Ejecutar script** 
+
 ![Script-Execute](Imagenes/6-Executescript.png) 
 
 8. Dar click derecho en la base de datos creada **proyecto_final_ws** y seleccionar **Refresh...** para que se actualicen las tablas. 
+
 ![Refresh2](Imagenes/7-Bddrefresh.png)
 
 9. Abrir el archivo *data.sql*
